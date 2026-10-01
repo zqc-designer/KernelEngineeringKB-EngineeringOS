@@ -1,0 +1,12 @@
+# Knowledge Extraction Checklist
+- [ ] 原始问题
+- [ ] 环境/版本
+- [ ] 事实与假设分离
+- [ ] 关键证据
+- [ ] 实验与结果
+- [ ] 结论与证据等级
+- [ ] 验证方法
+- [ ] 是否形成 Case
+- [ ] 是否重复形成 Pattern
+- [ ] 是否可执行成 Playbook
+- [ ] Git commit
